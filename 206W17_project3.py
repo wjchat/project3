@@ -19,7 +19,7 @@ import twitter_info
 
 sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer)
 
-## Your name:BJ Chatterson
+## Your name:BJ Chatterson - -
 ## The names of anyone you worked with on this project:
 
 #####
